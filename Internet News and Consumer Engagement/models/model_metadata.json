@@ -1,0 +1,14 @@
+{
+  "model_name": "Random Forest Classifier",
+  "training_date": "2025-11-07 20:39:47",
+  "performance_metrics": {
+    "accuracy": 0.9042145593869731,
+    "precision": 0.7808219178082192,
+    "recall": 0.29842931937172773,
+    "f1_score": 0.43181818181818177,
+    "roc_auc": 0.8666806282722515
+  },
+  "feature_count": 55,
+  "training_samples": 7305,
+  "random_seed": 42
+}
